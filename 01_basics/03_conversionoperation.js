@@ -30,3 +30,9 @@ console.log(2-2);
 console.log(2*2);
 console.log(3**2);  /** 2 bar ** ka mtlb h power me  **/
 console.log(2%3);
+
+
+
+       
+    
+
