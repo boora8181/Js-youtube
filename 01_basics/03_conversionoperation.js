@@ -10,10 +10,23 @@
 // true => 1, false=> 0
 
 let isLoggedIn = "Aman"
-console.log(typeof isLoggedIn);
-let bolleanisisLoggedIn = Boolean(isLoggedIn)
-console.log(typeof bolleanisisLoggedIn);
+// console.log(typeof isLoggedIn);
+// let bolleanisisLoggedIn = Boolean(isLoggedIn)
+// console.log(typeof bolleanisisLoggedIn);
 
 // "Aman"=> true
 // 1=> true, 0=> false
 // " "=> false
+
+
+/*********** Operations  ************/
+
+let value = 3
+let negvalue = -value
+console.log(negvalue);
+
+console.log(2+2);
+console.log(2-2);
+console.log(2*2);
+console.log(3**2);  /** 2 bar ** ka mtlb h power me  **/
+console.log(2%3);
