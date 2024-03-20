@@ -9,8 +9,8 @@ if (useremail) {
 
 // Falsy values 
 
-false, 0, "", -0, Bigint 0n, Null, undefined, NaN
+// false, 0, "", -0, Bigint 0n, Null, undefined, NaN
 
 // truthy values
 
-true, [], 1, "0", 'False', " ", {}, function(){}, 
+// true, [], 1, "0", 'False', " ", {}, function(){} , 
